@@ -1,0 +1,17 @@
+Node,ID,X,Y,Demand,Kind
+0,T01,6534.67,3738.58,1.25,Turbine
+1,T02,10031.57,5330.52,2.11,Turbine
+2,T03,4333.23,7053.25,0.62,Turbine
+3,T04,4528.78,6569.7,0.77,Turbine
+4,T05,4035.98,7304.58,2.39,Turbine
+5,S01,8929.07,4981.27,0.0,Substation
+6,S02,7176.5,4416.36,0.0,Substation
+7,S03,5544.58,5670.26,0.0,Substation
+num_vessels,3
+charge_capacity,341
+velocity,5
+consumption_rate,0.016
+vessel_cost,1000
+station_cost,10000
+sailing_cost,0.1
+num_time_windows,3
